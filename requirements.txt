@@ -9,4 +9,3 @@ rich
 rich-theme-manager
 dotenv
 openai
-
