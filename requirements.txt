@@ -9,3 +9,6 @@ rich
 rich-theme-manager
 dotenv
 openai
+altair
+vegafusion>=2.0.3
+pyarrow
