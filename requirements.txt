@@ -12,3 +12,8 @@ openai
 altair
 vegafusion>=2.0.3
 pyarrow
+einops
+tabulate
+datasets
+matplotlib
+seaborn
