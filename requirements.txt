@@ -17,3 +17,5 @@ tabulate
 datasets
 matplotlib
 seaborn
+semantic_chunkers
+semantic_router
