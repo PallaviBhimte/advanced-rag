@@ -19,3 +19,5 @@ matplotlib
 seaborn
 semantic_chunkers
 semantic_router
+bm25s
+PyStemmer
