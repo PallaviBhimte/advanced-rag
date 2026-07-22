@@ -21,3 +21,5 @@ semantic_chunkers
 semantic_router
 bm25s
 PyStemmer
+pdf2image
+stamina
